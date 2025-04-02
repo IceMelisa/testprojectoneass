@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a1d17c96-ae3d-4d7c-b06f-3b50eb432fd6">
+  <name>РасчетЗарплат</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расчет зарплат</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.Зп</picture>
+  </picture>
+  <content>Catalog.Сотрудники</content>
+</mdclass:Subsystem>
