@@ -53,4 +53,5 @@
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.СправочникПриколов</catalogs>
   <catalogs>Catalog.Товары</catalogs>
+  <dataProcessors>DataProcessor.Обработка11</dataProcessors>
 </mdclass:Configuration>
