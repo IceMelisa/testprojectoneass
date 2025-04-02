@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cc0c5d4c-dc2f-4ad2-8853-218e0bab01c9">
+  <producedTypes>
+    <objectType typeId="5eb08cfa-0141-4596-b8af-ec8f4620b8f3" valueTypeId="453d4c64-f44d-4bcf-8c45-e0e2c97d2b85"/>
+    <refType typeId="954c98c1-d578-4186-a758-e43a895075b7" valueTypeId="5f67a5ab-8c28-4e3f-9df1-15a73576ba82"/>
+    <selectionType typeId="10e0afeb-a9e7-4225-b6af-979469ae54cc" valueTypeId="e81fedd0-efba-430a-8d84-09b656878589"/>
+    <listType typeId="01f6ca41-c48e-461e-9aa5-ea72f9377aac" valueTypeId="f2e1f051-3d26-4dfb-8c60-8d6001f543b7"/>
+    <managerType typeId="3a96c9a5-1cd8-4f6e-9d24-efe87cdb7770" valueTypeId="c56a100a-5591-4797-a161-7d798a59965f"/>
+  </producedTypes>
+  <name>БывшиеОбэмы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Бывшие обэмы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.БывшиеОбэмы.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.БывшиеОбэмы.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

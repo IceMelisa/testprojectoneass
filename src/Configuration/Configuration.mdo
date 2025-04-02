@@ -49,6 +49,7 @@
   <commonPictures>CommonPicture.ОказаниеУслуг</commonPictures>
   <commonPictures>CommonPicture.Предприятие</commonPictures>
   <commonPictures>CommonPicture.Учетматериалов</commonPictures>
+  <catalogs>Catalog.БывшиеОбэмы</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
