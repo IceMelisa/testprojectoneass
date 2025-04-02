@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="48c1dfb4-ac49-4dc6-aecd-1ca2b6d4f2ba">
+  <producedTypes>
+    <objectType typeId="5d2c55c1-ef4a-4f3f-9ca5-519c421097df" valueTypeId="9c1e6f32-2dbd-4858-9ebf-77a1cfa2641d"/>
+    <refType typeId="3210fabb-dc3e-4391-9ebb-6372c062b903" valueTypeId="97162b3d-4c1c-4c50-9bcc-33cdaac65708"/>
+    <selectionType typeId="f780c8fb-fc76-479b-bb93-fe2e5611f2b6" valueTypeId="4adba314-7eb6-41e2-8fe5-93541f8af3f7"/>
+    <listType typeId="48204895-b938-455e-8673-22f738fcaccc" valueTypeId="23080223-d088-4cd9-b829-38f7d2443ef7"/>
+    <managerType typeId="284e1776-2f94-4000-b051-7be237e64025" valueTypeId="92fc85a8-0d0b-4f00-b133-cbcce3531b62"/>
+  </producedTypes>
+  <name>СправочникПриколов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник приколов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СправочникПриколов.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СправочникПриколов.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

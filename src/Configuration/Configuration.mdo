@@ -51,5 +51,6 @@
   <commonPictures>CommonPicture.Учетматериалов</commonPictures>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.СправочникПриколов</catalogs>
   <catalogs>Catalog.Товары</catalogs>
 </mdclass:Configuration>
