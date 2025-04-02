@@ -52,5 +52,6 @@
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
+  <catalogs>Catalog.СправочникПриколов</catalogs>
   <catalogs>Catalog.Товары</catalogs>
 </mdclass:Configuration>
