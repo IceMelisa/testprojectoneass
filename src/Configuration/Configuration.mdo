@@ -39,8 +39,10 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.PlzWork</subsystems>
   <subsystems>Subsystem.Бухгалтерия</subsystems>
   <subsystems>Subsystem.ОказаниеУслуг</subsystems>
+  <subsystems>Subsystem.ПодсистемаКРИНЖА</subsystems>
   <subsystems>Subsystem.Предприятие</subsystems>
   <subsystems>Subsystem.РасчетЗарплат</subsystems>
   <subsystems>Subsystem.УчетМатериалов</subsystems>
@@ -49,9 +51,12 @@
   <commonPictures>CommonPicture.ОказаниеУслуг</commonPictures>
   <commonPictures>CommonPicture.Предприятие</commonPictures>
   <commonPictures>CommonPicture.Учетматериалов</commonPictures>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
+  <catalogs>Catalog.БывшиеОбэмы</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.СправочникПриколов</catalogs>
   <catalogs>Catalog.Товары</catalogs>
+  <dataProcessors>DataProcessor.Обработка11</dataProcessors>
 </mdclass:Configuration>
