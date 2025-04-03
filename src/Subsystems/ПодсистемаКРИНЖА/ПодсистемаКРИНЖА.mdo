@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="47fef72f-6676-47f3-a941-4a8f35d5ab44">
+  <name>ПодсистемаКРИНЖА</name>
+  <synonym>
+    <key>ru</key>
+    <value>Подсистема КРИНЖА</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+</mdclass:Subsystem>
