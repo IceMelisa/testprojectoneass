@@ -51,6 +51,7 @@
   <commonPictures>CommonPicture.ОказаниеУслуг</commonPictures>
   <commonPictures>CommonPicture.Предприятие</commonPictures>
   <commonPictures>CommonPicture.Учетматериалов</commonPictures>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <catalogs>Catalog.БывшиеОбэмы</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
