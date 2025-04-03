@@ -39,6 +39,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.PlzWork</subsystems>
   <subsystems>Subsystem.Бухгалтерия</subsystems>
   <subsystems>Subsystem.ОказаниеУслуг</subsystems>
   <subsystems>Subsystem.ПодсистемаКРИНЖА</subsystems>
