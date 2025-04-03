@@ -41,6 +41,7 @@
   </languages>
   <subsystems>Subsystem.Бухгалтерия</subsystems>
   <subsystems>Subsystem.ОказаниеУслуг</subsystems>
+  <subsystems>Subsystem.ПодсистемаПрикола</subsystems>
   <subsystems>Subsystem.Предприятие</subsystems>
   <subsystems>Subsystem.РасчетЗарплат</subsystems>
   <subsystems>Subsystem.УчетМатериалов</subsystems>
