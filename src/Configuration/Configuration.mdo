@@ -39,7 +39,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.gfhfhgfhfg</subsystems>
   <subsystems>Subsystem.Бухгалтерия</subsystems>
   <subsystems>Subsystem.ОказаниеУслуг</subsystems>
   <subsystems>Subsystem.ПодсистемаАндрееича</subsystems>
